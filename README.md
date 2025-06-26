@@ -7,7 +7,7 @@ English | [简体中文](README_CN.md) |
 _Team Project of 3 members_
 
 <div align=center>
-<img src="https://github.com/anOrangeCat3/anOrangeCat3/blob/main/gif/6_1750689850-ezgif.com-video-to-gif-converter.gif"/>
+<img src="https://github.com/anOrangeCat3/anOrangeCat3/blob/main/gif/6_1750689850-ezgif.com-video-to-gif-converter.gif"  width="300"/>
 </div>
 
 **_Discription of project:_** This is a project for a robot control course. It involves using a robotic arm to draw portrait sketches. The process begins with inputting a real portrait photograph. Image processing techniques are then applied to extract the outline of the portrait, which is transformed into a series of ordered coordinate points. These points serve as the path for the robotic arm to follow. Finally, the robotic arm is controlled to move along the generated path, ultimately completing the portrait drawing.

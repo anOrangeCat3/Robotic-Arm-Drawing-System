@@ -7,7 +7,7 @@
 _三人团队项目_
 
 <div align=center>
-<img src="https://github.com/anOrangeCat3/anOrangeCat3/blob/main/gif/6_1750689850-ezgif.com-video-to-gif-converter.gif"/>
+<img src="https://github.com/anOrangeCat3/anOrangeCat3/blob/main/gif/6_1750689850-ezgif.com-video-to-gif-converter.gif" width="300" />
 </div>
 
 
